@@ -2,11 +2,11 @@
 
 Este é um projeto base em Java construído com o framework Spring Boot.
 
-Foi criado via **Spring Initializr** e segue a estrutura padrão do Maven, configurado para **Java 21**.
+Foi criado via **Spring Initializr** e segue a estrutura padrão do Maven, configurado para **Java 25**.
 
 ## Tecnologias e Dependências
 
-* **Java 21**
+* **Java 25**
 * **Spring Boot**
 * **Dependências:**
     * Spring Web
